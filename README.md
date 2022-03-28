@@ -1,5 +1,6 @@
 ### Olá ! Eu sou o Rafael Willamy 
-Em Transição de Carreira 👽
+Estudante de Dev Full Stark Js, 
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.👽
 
 [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](htpps://sujeitoprogramador.com)
 
@@ -9,6 +10,16 @@ Em Transição de Carreira 👽
 ![Rafael Willamy GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWillamy&show_icons=true&theme=dracula)
 
 ## Tecnogias que eu uso
+
+HTML
+CSS
+JavaScript
+React
+Java
+MongoDB
+MySQL
+
+ 
 
 <div style="display: inline_block"><br/>
            <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
