@@ -6,7 +6,6 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/rafael.willamy?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-willamy-6128b7175)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1iokeiq92d7x8&utm_content=mujapr)
-()
 ![Rafael Willamy GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWillamy&show_icons=true&theme=dracula)
 
 ## Tecnogias que eu uso
@@ -23,6 +22,7 @@ MySQL
 
 <div style="display: inline_block"><br/>
            <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img alt="Qgis" scr="	https://img.shields.io/badge/qgis-3.24_Tisler-93b023?&style=for-the-badge&logo=qgis&logoColor=white"/>
  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="jS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
