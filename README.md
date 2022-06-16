@@ -13,10 +13,10 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 HTML
 CSS
 JavaScript
-React
-Java
+React(Next.js)
+Tailwindcss
 MongoDB
-MySQL
+
 
  
 
