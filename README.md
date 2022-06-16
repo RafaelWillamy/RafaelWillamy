@@ -2,8 +2,6 @@
 Estudante Dev Web 
 sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.👽
 
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](htpps://sujeitoprogramador.com)
-
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/rafael.willamy?ref_component=mbasic_home_header&ref_page=%2Fwap%2Fhome.php&refid=8)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-willamy-6128b7175)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?i=1iokeiq92d7x8&utm_content=mujapr)
 ![Rafael Willamy GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelWillamy&show_icons=true&theme=dracula)
@@ -16,9 +14,6 @@ JavaScript
 React(Next.js)
 Tailwindcss
 MongoDB
-
-
- 
 
 <div style="display: inline_block"><br/>
            <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
